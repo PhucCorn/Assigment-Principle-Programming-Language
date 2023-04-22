@@ -1,0 +1,14 @@
+- Xử lý array nhiều chiều
+- Xử lý suy kiểu auto trên các phép gán
+
+VD:
+Bool = Int < (Auto + Int)
+
+- Xử lý hàm super
+
+- Para gốc và đối số khi truyền vào có khi chiều đài khác nhau
+Vd: 
+foo(int a, int b):
+ pass
+
+foo(a,b,c)
